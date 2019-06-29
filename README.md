@@ -151,14 +151,6 @@ Git repos display as **[branch:flags]** where flags are:
 **!** changed (but unstaged) files
 **+** staged files
 
-SVN repos display as **[rev1:rev2]** where rev1 and rev2 are:
-
-**rev1** last changed revision
-**rev2** revision
-
-Check it out:
-
-![My awesome bash prompt](http://farm8.staticflickr.com/7142/6754488927_563dd73553_b.jpg)
 
 ## Inspiration
 <https://github.com/gf3/dotfiles>

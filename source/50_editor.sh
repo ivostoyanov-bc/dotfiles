@@ -1,6 +1,6 @@
 # Editing
 
-export EDITOR=vim
+export EDITOR=subl
 
 # If mvim is installed, use it instead of native vim
 if [[ "$(which mvim)" ]]; then
